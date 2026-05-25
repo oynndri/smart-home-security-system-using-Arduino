@@ -1,5 +1,6 @@
-# Smart Home Security System 🚨🏠
-
+<h1 align="center">
+  Smart Home Security System 🚨🏠
+</h1>
 <div align="center">
 
 ![Arduino](https://img.shields.io/badge/Arduino-Uno-blue?style=for-the-badge\&logo=arduino)
